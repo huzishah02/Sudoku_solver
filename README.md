@@ -101,8 +101,7 @@ def find_empty(bo):
 Example
 
 Initial Sudoku Board
-diff
-Copy code
+
 7 8 0 | 4 0 0 | 1 2 0 
 6 0 0 | 0 7 5 | 0 0 9 
 0 0 0 | 6 0 1 | 0 7 8 
@@ -114,9 +113,9 @@ Copy code
 0 7 0 | 3 0 0 | 0 1 2 
 1 2 0 | 0 0 7 | 4 0 0 
 0 4 9 | 2 0 6 | 0 0 7 
+
 Solved Sudoku Board
-diff
-Copy code
+
 7 8 5 | 4 3 9 | 1 2 6 
 6 1 2 | 8 7 5 | 3 4 9 
 4 9 3 | 6 2 1 | 5 7 8 
